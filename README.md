@@ -1,13 +1,9 @@
-# hello-world
-test repository 
+#include <stdio.h>
 
-Hello!
+main (){
 
-Rafael Alves here;
+printf("Hello. Rafael Alves here. Software Engineering Student at Unicesumar university. MITx 6.002.1x Circuits and Electronics Basic Circuit Analysis. HarvardX LBTechX1 Technology Entrepreneurship:Lab to Market. Career in engineering development and programming. Big hug and God bless you all.");
 
-Software Engineering Student. 
-MITx 6.002.1x - Circuits and Electronics Basic Circuit Analysis. 
-HarvardX LBTechX1 - Technology Entrepreneurship:Lab to Market.
+return 0;
 
-Career in engineering, development and programming.
-
+}
